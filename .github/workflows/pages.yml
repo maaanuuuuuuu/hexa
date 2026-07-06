@@ -1,5 +1,6 @@
 name: Deploy static site to GitHub Pages
 
+# Retriggered from ChatGPT on 2026-07-06.
 on:
   push:
     branches:
